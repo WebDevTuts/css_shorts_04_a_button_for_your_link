@@ -57,6 +57,7 @@ a.btn {
   text-decoration: none;
   font-weight: 700;
   font-size: 0.9em;
+  transition: all 0.3s ease-in;
 }
 
 a.btn::after {
