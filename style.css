@@ -64,5 +64,8 @@ a.btn::after {
   padding-left: 8px;
 }
 
-
+a.btn:hover {
+  color: #fff;
+  background-color: #008cda;
+}
 
