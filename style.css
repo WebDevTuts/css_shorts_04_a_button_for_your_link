@@ -2,7 +2,7 @@
 
 /*  This file was provided as part of a weekly web design tutorial series.
 	Sign-up for our newsletter, at http://codifydesign.com, to be notified
-	about each new episode of CSS Shorts  
+	about each new episode of CSS Shorts
 */
 
 @import url('https://fonts.googleapis.com/css?family=Raleway:300,700');
@@ -23,11 +23,11 @@ article {
 	border: 2px solid #fff;
 	border-radius: 15px;
 	background-color: rgba(5,31,62,.85);
-	padding: 30px 30px;	
+	padding: 30px 30px;
 	width: 40%;
-	
+
 	color: #a9c7ea;
-	
+
 }
 h1 {
 	margin: 0 0 .7em 0;
@@ -47,7 +47,17 @@ a:hover {
 
 }
 
-
+a.btn {
+  display: inline-block;
+  margin: 10px 0;
+  color: #008cda;
+  background-color: #fff;
+  padding: 8px 20px;
+  border-radius: 7px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 0.9em;
+}
 
 
 
