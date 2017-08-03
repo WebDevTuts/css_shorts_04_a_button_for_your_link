@@ -59,7 +59,10 @@ a.btn {
   font-size: 0.9em;
 }
 
-
+a.btn::after {
+  content: '\00BB';
+  padding-left: 8px;
+}
 
 
 
